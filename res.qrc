@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/single-instance_32px.png</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
